@@ -6,4 +6,4 @@ Bem-vindo ao repositório da disciplina "Algoritmos e Estruturas" da PUC Minas! 
 
 1. [Trabalho Prático 02](./TP%2002)
 2. Trabalho Prático 03
-3. Trabalho Prático 04
+3. [Trabalho Prático 04](./TP%2004)
